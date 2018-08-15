@@ -7,6 +7,8 @@ public class test2 {
 		int j = 875;
 		
 		System.out.println(i*j);
+		
+		// added a comment
 			
 	}
 	
